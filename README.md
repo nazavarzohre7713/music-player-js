@@ -1,7 +1,7 @@
 # 🎵 Web Music Player
 ![Music Player Screenshot](img/musicPlayer.gif)
 
-ج
+
 
 A simple, lightweight **web-based music player** built with **HTML, CSS, and JavaScript**.  
 Upload local audio files, manage them in a playlist, and control playback (play/pause/next/prev). The player also reads embedded cover art via **jsmediatags** and shows a clickable progress bar with elapsed time and duration.
